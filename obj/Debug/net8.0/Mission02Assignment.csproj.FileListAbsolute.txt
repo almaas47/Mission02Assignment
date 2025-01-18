@@ -1,0 +1,14 @@
+/Users/persianprince/RiderProjects/Mission02Assignment/bin/Debug/net8.0/Mission02Assignment
+/Users/persianprince/RiderProjects/Mission02Assignment/bin/Debug/net8.0/Mission02Assignment.deps.json
+/Users/persianprince/RiderProjects/Mission02Assignment/bin/Debug/net8.0/Mission02Assignment.runtimeconfig.json
+/Users/persianprince/RiderProjects/Mission02Assignment/bin/Debug/net8.0/Mission02Assignment.dll
+/Users/persianprince/RiderProjects/Mission02Assignment/bin/Debug/net8.0/Mission02Assignment.pdb
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.AssemblyInfoInputs.cache
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.AssemblyInfo.cs
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.csproj.CoreCompileInputs.cache
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.dll
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/refint/Mission02Assignment.dll
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.pdb
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/Mission02Assignment.genruntimeconfig.cache
+/Users/persianprince/RiderProjects/Mission02Assignment/obj/Debug/net8.0/ref/Mission02Assignment.dll
