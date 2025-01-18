@@ -3,6 +3,7 @@
 namespace RollDice
 {
 
+    // Create program class
     class Program
     {
         static void Main(string[] args)
@@ -13,6 +14,8 @@ namespace RollDice
             int numberofRolls;
             
             Console.Write("How many dice rolls would you like to simulate? ");
+            
+            // Check the number
             if (!int.TryParse(Console.ReadLine(), out int numberOfRolls) || numberOfRolls <= 0)
             {
                 Console.WriteLine("Invalid input. Please enter a positive number.");
@@ -28,6 +31,7 @@ namespace RollDice
             Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
             Console.WriteLine($"Total number of rolls = {numberOfRolls}.\n");
 
+            // For loop for amount of rolls, increment
             for (int i = 0; i < rollResults.Length; i++)
             {
                 int rollSum = i + 2; // Change index to dice sum
@@ -37,7 +41,8 @@ namespace RollDice
                 Console.Write($"{rollSum}: ");
                 Console.WriteLine(new string('*', starsCount)); // Print asterisks
             }
-
+            
+            // Finish program
             Console.WriteLine("\nThank you for using the dice throwing simulator. Goodbye!");
         }
     }
